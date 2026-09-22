@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/f65e41d8-ecbe-4f85-ba58-57db7194b3c4
 ## Usage
 
 1. Launch App
-2. Select your target model file (`.xmodel_export`, `.xmodel_bin`, `.json`, `.cast`, or `.obj`).
+2. Select your target model file (`.xmodel_export`, `.xmodel_bin`, `.json`, `.cast`,`.map`, or `.obj`).
 3. Edit and Generate Brushes within tool
 4. Configure your export settings and output directory.
 5. Convert and open the generated `.map` brush file directly in Radiant.
